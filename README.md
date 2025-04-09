@@ -1,4 +1,4 @@
-![Screenshot (127)](https://github.com/user-attachments/assets/805fe50d-b60f-4298-a66a-8b7fddeb687a)# Yuvraj FitClub 🏋️‍♂️
+ ![Screenshot (113)](https://github.com/user-attachments/assets/e8517c97-ba49-4a53-b20f-2123e6b2a075)🏋️‍♂️
 
 Welcome to **Yuvraj FitClub** — a modern, fully responsive fitness website built with **React.js**. Designed to inspire and empower individuals on their fitness journey, Yuvraj FitClub provides an engaging user experience across all devices.
 
