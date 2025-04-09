@@ -30,21 +30,13 @@ Welcome to **Yuvraj FitClub** — a modern, fully responsive fitness website bui
 ---
 
 ## 📸 Screenshots
-
-![Screenshot (124)](https://github.com/user-attachments/assets/ae0a36ce-9e4e-4d0e-9f00-c0e46fb315e1)
-
-
-
-![Screenshot (125)](https://github.com/user-attachments/assets/14ae0829-e868-41f7-8363-498721da1230)
-
+![Screenshot (124)](https://github.com/user-attachments/assets/85328eef-5f95-49ad-a244-ebc00d5e8efb)
+![Screenshot (125)](https://github.com/user-attachments/assets/ce2af776-41b7-4aa4-9909-5e1a9c711921)
+![Screenshot (126)](https://github.com/user-attachments/assets/c6a474da-2295-4ec8-aae6-5258abb36101)
+![Screenshot (127)](https://github.com/user-attachments/assets/fa538d2c-04b4-4457-b656-0f0f0b9b11f1)
+![Screenshot (128)](https://github.com/user-attachments/assets/02adbac4-f00d-432c-a6b4-0fede23ef1c4)
 
 
-
-![Screenshot (126)](https://github.com/user-attachments/assets/db34d205-6d25-46d1-94b1-5447cf8bc5e8)
-
-![Screenshot (127)](https://github.com/user-attachments/assets/dc3306f5-8820-49dd-93da-ad21f327cf34)
-
-![Screenshot (128)](https://github.com/user-attachments/assets/f71f9d23-ba93-4774-8ae9-b2e4a21066cf)
 
 ---
 
