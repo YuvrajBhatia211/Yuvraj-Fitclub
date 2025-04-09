@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b78ae714.css",
+    "main.js": "/static/js/main.e54c1de4.js",
+    "static/media/hero_image.png": "/static/media/hero_image.e19ac0c6b1009c7280f5.png",
+    "static/media/image1.png": "/static/media/image1.1091417d32e491f0bbb6.png",
+    "static/media/piyush.jpg": "/static/media/piyush.fc3ca5f521886d357c42.jpg",
+    "static/media/image2.png": "/static/media/image2.82da8b2725df896d8a8e.png",
+    "static/media/ankush.jpg": "/static/media/ankush.7afa546ce72f5feef9fc.jpg",
+    "static/media/image3.png": "/static/media/image3.69484cb0ee7687a8c28b.png",
+    "static/media/image4.png": "/static/media/image4.2c0d30b9ce1579eb1109.png",
+    "static/media/logo2.png": "/static/media/logo2.069bc24fe5c4c28b4d98.png",
+    "static/media/hero_image1.jpg": "/static/media/hero_image1.b899110693cb4f4d2a0e.jpg",
+    "static/media/hero_image_back.png": "/static/media/hero_image_back.9f54bfba33048f4ca688.png",
+    "index.html": "/index.html",
+    "main.b78ae714.css.map": "/static/css/main.b78ae714.css.map",
+    "main.e54c1de4.js.map": "/static/js/main.e54c1de4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b78ae714.css",
+    "static/js/main.e54c1de4.js"
+  ]
+}
