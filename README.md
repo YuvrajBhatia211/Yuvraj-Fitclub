@@ -4,7 +4,7 @@ Welcome to **Yuvraj FitClub** — a modern, fully responsive fitness website bui
 
 ## 🚀 Live Demo
 
-[https://papaya-dusk-8cc155.netlify.app/](#) *(Replace with your live site URL)*
+[https://papaya-dusk-8cc155.netlify.app/](#) 
 
 ---
 
